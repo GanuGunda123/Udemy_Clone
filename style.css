@@ -1,0 +1,205 @@
+body
+{
+    margin : 0;
+    padding : 0;
+}
+
+header
+{
+    width : 1550px;
+    height : 149.2px;
+    
+}
+
+head1
+{   justify-content: space-between;
+    display: flex;
+    height : 77.2px;
+    background-color: peachpuff;
+    align-items: center;
+}
+
+honda
+{   display : flex;
+    align-items: center;
+    width : 1384px;
+    height : 77.2px;
+    margin : 35%;
+}
+
+
+
+cross 
+{
+    width : 125px;
+    height : 77.2px;
+    display : flex;
+    align-items : center;
+}
+
+.Cross1:hover
+{
+   color:aqua;
+}
+
+head2
+{   justify-content: space-between;
+    display: flex;
+    height : 72px;
+    background-color: white;
+    align-items: center;
+}
+
+.Symbol
+{
+    height : 34px;
+    width : 91px;
+    margin : 3%;
+}
+
+.SearchBar
+{
+    width : 226.41px;
+    height : 46px;
+    align-items:center;
+}
+
+.aksa{
+    width : 226.41px;
+    height : 46px;
+    border : 2px solid ;
+    border-radius : 25px;
+    background-color: white;
+    display : flex;
+    align-items : center;
+}
+
+icon
+{
+    margin : 5%;
+}
+
+
+text{
+    margin:10%
+}
+
+.UdemyBuisness
+{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    width:360px;
+}
+
+.ShopCart
+{
+    width:48px;
+}
+
+.Login 
+{
+    width : 100px;
+    height : 40px;
+    border : 2px solid;
+    background-color: white;
+}
+
+.Login:hover
+{
+    background-color:silver;
+}
+
+.SignUp
+{
+    width : 100px;
+    height : 40px;
+    border : 2px solid;
+    background-color: black;
+    color : white;
+}
+.SignUp:hover
+{
+    background-color:black;
+}
+.WorldLogo
+{   
+    margin-right : 3%;
+}
+
+.Hind
+{
+    width:50px;
+    height:50px;
+    background-color: white;
+    border : solid;
+}
+
+.Hind:hover
+{
+    background-color:silver;
+}
+
+.Categories
+{
+    color:black;
+}
+
+.Categories:hover 
+{
+    color:purple;
+}
+
+.Plans
+{
+    color:black;
+}
+.Plans:hover
+{
+    color:purple;
+}
+
+.udemy 
+{
+    color:black;
+}
+
+.Udemy:hover
+{
+    color:purple;
+}
+
+.Tech
+{
+    color:black;
+}
+
+.Tech:hover
+{
+    color:purple;
+}
+
+footer
+{
+    background-color: black;
+    height:80px;
+    width: 1550px;
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+b{
+    margin:5%;
+}
+
+p1
+{
+    margin:5%;
+}
+
+.Offer1
+{  
+    font-weight: bold;
+}
